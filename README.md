@@ -1,3 +1,6 @@
+Finished puzzles, but merging notebooks nuked the final tasks solutions, so...
+
+---
 # GPU Puzzles
 - by [Sasha Rush](http://rush-nlp.com) - [srush_nlp](https://twitter.com/srush_nlp)
 
